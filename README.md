@@ -357,16 +357,6 @@ php artisan cache:clear
 - 📧 **İletişim**: [email@domain.com](mailto:email@domain.com)
 - 📚 **Dokümantasyon**: Bu README dosyas
 ---
-
-## 🙏 Teşekkürler
-
-- **API-Football** - Kaliteli futbol verileri için
-- **RapidAPI** - API yönetim platformu için
-- **Laravel Community** - Mükemmel framework için
-- **Bootstrap Team** - Responsive CSS framework için
-
----
-
 <p align="center">
   <strong>⭐ Bu projeyi beğendiyseniz star vermeyi unutmayın! ⭐</strong>
 </p>

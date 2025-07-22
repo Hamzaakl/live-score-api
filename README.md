@@ -355,14 +355,7 @@ php artisan cache:clear
 - 🐛 **Bug Report**: Issues sekmesini kullanın
 - 💡 **Feature Request**: Issues ile öneri paylaşın
 - 📧 **İletişim**: [email@domain.com](mailto:email@domain.com)
-- 📚 **Dokümantasyon**: Bu README dosyası
-
----
-
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
+- 📚 **Dokümantasyon**: Bu README dosyas
 ---
 
 ## 🙏 Teşekkürler

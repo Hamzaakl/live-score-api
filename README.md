@@ -354,8 +354,6 @@ php artisan cache:clear
 
 - 🐛 **Bug Report**: Issues sekmesini kullanın
 - 💡 **Feature Request**: Issues ile öneri paylaşın
-- 📧 **İletişim**: [email@domain.com](mailto:email@domain.com)
-- 📚 **Dokümantasyon**: Bu README dosyas
 ---
 <p align="center">
   <strong>⭐ Bu projeyi beğendiyseniz star vermeyi unutmayın! ⭐</strong>

@@ -303,32 +303,7 @@ try {
 
 ## 🔧 Geliştirici Notları
 
-### Özelleştirme
 
-1. **Yeni lig ekleme:**
-
-```php
-// FootballApiService.php içinde
-$popularLeagueIds = [
-    39,  // Premier League
-    203, // Turkish Super Lig
-    // Yeni lig ID'sini buraya ekleyin
-];
-```
-
-2. **Cache sürelerini değiştirme:**
-
-```php
-// Her metod için cache süresini ayarlayabilirsiniz
-return $this->makeRequestWithCache('/leagues', $params, 60); // 60 dakika
-```
-
-3. **Yeni sayfa ekleme:**
-
-```php
-// routes/web.php
-Route::get('/yeni-sayfa', [YeniController::class, 'index']);
-```
 
 ### Debug Modu
 
